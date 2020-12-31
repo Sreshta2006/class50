@@ -1,0 +1,23 @@
+h1{
+    color:rgb(231, 71, 71)
+        }
+        *{
+    border: solid;
+        }
+h2{
+    text-align: center;
+}
+.header{
+    background-color: beige;
+    display:flex;
+    justify-content: space-around;
+        }
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
